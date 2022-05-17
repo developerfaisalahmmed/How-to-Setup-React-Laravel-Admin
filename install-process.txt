@@ -1,0 +1,13 @@
+1. composer create-project laravel/laravel (app)
+2. composer require laravel/ui
+3. npm install
+4. npm run dev
+5. link up your home page{
+
+ <link rel="stylesheet" href="{{ mix('css/app.css') }}">
+<script src="{{ mix('js/app.js') }}"></script>
+}
+5. npm run watch
+
+
+
